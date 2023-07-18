@@ -43,3 +43,14 @@ Create a CNN model, which can accurately detect 9 classes present in the dataset
 Choose an appropriate optimiser and loss function for model training
 Train the model for ~30 epochs
 Write your findings after the model fit, see if the issues are resolved or not?
+# Technologies Used: 
+python - 3.11.2
+tensorflow - 2.13.0
+Jupyter  -  6.4.12
+# Conclusion:
+To train the model we should have more data. Initially we are having class imbalance in the data. We have used Augmentor to classify them equally.
+Overall the training accuracy and validation accuracy is almost same.
+# Acknowledgements
+This project was inspired to reduce the cancer in the world by detecting it in the early stages.
+## Contact
+Created by [@Akash-Palli] - feel free to contact me!
