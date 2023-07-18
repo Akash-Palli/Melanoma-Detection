@@ -1,9 +1,9 @@
 # Melanoma-Detection
 This repository contains code for CNN on Melanoma Cancer Detection 
 ## Table of Contents
-* [General Info]
-* [Technologies Used]
-* [Conclusions]
+* General Info
+* Technologies Used
+* Conclusions
 * Acknowledgements
 # Problem Statement:
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow.
